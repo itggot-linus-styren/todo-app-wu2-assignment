@@ -5,7 +5,7 @@ const App = {
     data() {
         return {
             text: "",
-            items: [{
+            todos: [{
                 id: 0,
                 text: "exempel"
             }],
